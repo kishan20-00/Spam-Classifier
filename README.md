@@ -6,3 +6,13 @@ The main concept of NLP is to make the computer understand the language of human
    1. Exploratory Data Analysis(EDA)
    2. Natural Engineering
    3. Data Cleaning
+   4. Vectorization
+   5. Modelling
+   
+In here, Data cleaning some processes such as:
+   1. Clearing punctuation
+   2. Tokenization
+   3. Lemmatization & Stemming
+ 
+Also, In Modelling there are some methods and models:
+  
