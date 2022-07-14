@@ -14,5 +14,7 @@ In here, Data cleaning some processes such as:
    2. Tokenization
    3. Lemmatization & Stemming
  
-Also, In Modelling there are some methods and models:
+Also, In Modelling there are some Machine-Learning methods and models:
+   1. Train-test
+   2. Pipeline
   
